@@ -2,7 +2,7 @@
 💅 Community-managed library of Monodraw snippets that are used in smart contracts.
 
 > **Note**
-Monodraw does not have all the needed shapes customization features so some of the snippets are hardcoded to a reasonable sizes. Some headers as `Solady`, will have hardcoded borders. It's still easy to customize the snippets and save them locally for further usage though.
+Monodraw does not have all the needed shape customization features so some of the snippets are hard-coded to a reasonable size. Some headers as `Solady`, will have hardcoded borders. It's still easy to customize the snippets and save them locally for further usage though.
 
 ## 📥 Installation
 1. Get Monodraw - https://monodraw.helftone.com/
