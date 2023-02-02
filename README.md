@@ -6,7 +6,7 @@ Monodraw does not have all the needed shapes customization features so some of t
 
 ## 📥 Installation
 1. Get Monodraw - https://monodraw.helftone.com/
-2. `git clone https://github.com/h0tw4t3r/monodraw-contract-snippets ~/Library/Application\ Support/com.helftone.monodraw/User\ Snippets`
+2. `curl -L https://raw.githubusercontent.com/h0tw4t3r/monodraw-contract-snippets/main/install.sh | bash`
 
 ## 👷🏻‍♂️ Usage
 1. Follow the steps and Drag&Drop the snippet you want to use
